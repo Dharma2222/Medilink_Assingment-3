@@ -1,0 +1,101 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1753563961626,10,GET Main page,200,OK,Frontend Feature moderate 6-1,text,true,,2028,116,1,6,http://localhost:3000/,9,0,0
+1753563961636,27,GET /static/js/bundle.js,200,OK,Frontend Feature moderate 6-1,text,true,,4480099,135,1,6,http://localhost:3000/static/js/bundle.js,9,0,0
+1753563962828,1,GET Main page,200,OK,Frontend Feature moderate 6-2,text,true,,2028,116,1,6,http://localhost:3000/,1,0,0
+1753563962829,19,GET /static/js/bundle.js,200,OK,Frontend Feature moderate 6-2,text,true,,4480099,135,1,6,http://localhost:3000/static/js/bundle.js,4,0,0
+1753563964031,1,GET Main page,200,OK,Frontend Feature moderate 6-3,text,true,,2028,116,1,4,http://localhost:3000/,1,0,0
+1753563964032,7,GET /static/js/bundle.js,200,OK,Frontend Feature moderate 6-3,text,true,,4480099,135,1,4,http://localhost:3000/static/js/bundle.js,3,0,0
+1753563965231,1,GET Main page,200,OK,Frontend Feature moderate 6-4,text,true,,2028,116,1,6,http://localhost:3000/,1,0,0
+1753563965232,6,GET /static/js/bundle.js,200,OK,Frontend Feature moderate 6-4,text,true,,4480099,135,1,6,http://localhost:3000/static/js/bundle.js,2,0,0
+1753563966430,2,GET Main page,200,OK,Frontend Feature moderate 6-5,text,true,,2028,116,1,4,http://localhost:3000/,2,0,1
+1753563966432,9,GET /static/js/bundle.js,200,OK,Frontend Feature moderate 6-5,text,true,,4480099,135,1,4,http://localhost:3000/static/js/bundle.js,3,0,0
+1753563967632,1,GET Main page,200,OK,Frontend Feature moderate 6-6,text,true,,2028,116,1,7,http://localhost:3000/,1,0,0
+1753563967634,7,GET /static/js/bundle.js,200,OK,Frontend Feature moderate 6-6,text,true,,4480099,135,1,6,http://localhost:3000/static/js/bundle.js,3,0,0
+1753563968828,1,GET Main page,200,OK,Frontend Feature moderate 6-7,text,true,,2028,116,1,5,http://localhost:3000/,1,0,1
+1753563968829,8,GET /static/js/bundle.js,200,OK,Frontend Feature moderate 6-7,text,true,,4480099,135,1,5,http://localhost:3000/static/js/bundle.js,3,0,0
+1753563970032,1,GET Main page,200,OK,Frontend Feature moderate 6-8,text,true,,2028,116,1,4,http://localhost:3000/,1,0,0
+1753563970033,9,GET /static/js/bundle.js,200,OK,Frontend Feature moderate 6-8,text,true,,4480099,135,1,4,http://localhost:3000/static/js/bundle.js,5,0,0
+1753563971233,2,GET Main page,200,OK,Frontend Feature moderate 6-9,text,true,,2028,116,1,6,http://localhost:3000/,2,0,1
+1753563971236,12,GET /static/js/bundle.js,200,OK,Frontend Feature moderate 6-9,text,true,,4480099,135,1,6,http://localhost:3000/static/js/bundle.js,5,0,0
+1753563972431,2,GET Main page,200,OK,Frontend Feature moderate 6-10,text,true,,2028,116,1,4,http://localhost:3000/,2,0,1
+1753563972433,10,GET /static/js/bundle.js,200,OK,Frontend Feature moderate 6-10,text,true,,4480099,135,1,4,http://localhost:3000/static/js/bundle.js,4,0,0
+1753563973631,4,GET Main page,200,OK,Frontend Feature moderate 6-11,text,true,,2028,116,1,7,http://localhost:3000/,4,0,1
+1753563973635,8,GET /static/js/bundle.js,200,OK,Frontend Feature moderate 6-11,text,true,,4480099,135,1,6,http://localhost:3000/static/js/bundle.js,3,0,0
+1753563974831,1,GET Main page,200,OK,Frontend Feature moderate 6-12,text,true,,2028,116,1,5,http://localhost:3000/,1,0,1
+1753563974833,6,GET /static/js/bundle.js,200,OK,Frontend Feature moderate 6-12,text,true,,4480099,135,1,5,http://localhost:3000/static/js/bundle.js,3,0,0
+1753563976029,1,GET Main page,200,OK,Frontend Feature moderate 6-13,text,true,,2028,116,1,4,http://localhost:3000/,1,0,0
+1753563976030,10,GET /static/js/bundle.js,200,OK,Frontend Feature moderate 6-13,text,true,,4480099,135,1,4,http://localhost:3000/static/js/bundle.js,6,0,0
+1753563977231,1,GET Main page,200,OK,Frontend Feature moderate 6-14,text,true,,2028,116,1,6,http://localhost:3000/,1,0,1
+1753563977232,7,GET /static/js/bundle.js,200,OK,Frontend Feature moderate 6-14,text,true,,4480099,135,1,6,http://localhost:3000/static/js/bundle.js,3,0,0
+1753563978431,1,GET Main page,200,OK,Frontend Feature moderate 6-15,text,true,,2028,116,1,4,http://localhost:3000/,1,0,0
+1753563978432,10,GET /static/js/bundle.js,200,OK,Frontend Feature moderate 6-15,text,true,,4480099,135,1,4,http://localhost:3000/static/js/bundle.js,3,0,0
+1753563979631,1,GET Main page,200,OK,Frontend Feature moderate 6-16,text,true,,2028,116,1,7,http://localhost:3000/,1,0,0
+1753563979633,9,GET /static/js/bundle.js,200,OK,Frontend Feature moderate 6-16,text,true,,4480099,135,1,7,http://localhost:3000/static/js/bundle.js,4,0,0
+1753563980830,0,GET Main page,200,OK,Frontend Feature moderate 6-17,text,true,,2028,116,1,5,http://localhost:3000/,0,0,0
+1753563980830,5,GET /static/js/bundle.js,200,OK,Frontend Feature moderate 6-17,text,true,,4480099,135,1,5,http://localhost:3000/static/js/bundle.js,4,0,0
+1753563982029,1,GET Main page,200,OK,Frontend Feature moderate 6-18,text,true,,2028,116,1,4,http://localhost:3000/,1,0,0
+1753563982030,7,GET /static/js/bundle.js,200,OK,Frontend Feature moderate 6-18,text,true,,4480099,135,1,4,http://localhost:3000/static/js/bundle.js,4,0,0
+1753563983231,1,GET Main page,200,OK,Frontend Feature moderate 6-19,text,true,,2028,116,1,6,http://localhost:3000/,1,0,0
+1753563983232,9,GET /static/js/bundle.js,200,OK,Frontend Feature moderate 6-19,text,true,,4480099,135,1,6,http://localhost:3000/static/js/bundle.js,4,0,0
+1753563984431,1,GET Main page,200,OK,Frontend Feature moderate 6-20,text,true,,2028,116,1,4,http://localhost:3000/,1,0,0
+1753563984432,7,GET /static/js/bundle.js,200,OK,Frontend Feature moderate 6-20,text,true,,4480099,135,1,4,http://localhost:3000/static/js/bundle.js,4,0,0
+1753563985627,6,GET Main page,200,OK,Frontend Feature moderate 6-21,text,true,,2028,116,1,7,http://localhost:3000/,6,0,1
+1753563985633,9,GET /static/js/bundle.js,200,OK,Frontend Feature moderate 6-21,text,true,,4480099,135,1,6,http://localhost:3000/static/js/bundle.js,6,0,0
+1753563986827,2,GET Main page,200,OK,Frontend Feature moderate 6-22,text,true,,2028,116,1,5,http://localhost:3000/,2,0,1
+1753563986830,9,GET /static/js/bundle.js,200,OK,Frontend Feature moderate 6-22,text,true,,4480099,135,1,5,http://localhost:3000/static/js/bundle.js,4,0,0
+1753563988031,3,GET Main page,200,OK,Frontend Feature moderate 6-23,text,true,,2028,116,1,4,http://localhost:3000/,3,0,1
+1753563988034,8,GET /static/js/bundle.js,200,OK,Frontend Feature moderate 6-23,text,true,,4480099,135,1,4,http://localhost:3000/static/js/bundle.js,5,0,0
+1753563989229,2,GET Main page,200,OK,Frontend Feature moderate 6-24,text,true,,2028,116,1,6,http://localhost:3000/,2,0,1
+1753563989231,8,GET /static/js/bundle.js,200,OK,Frontend Feature moderate 6-24,text,true,,4480099,135,1,6,http://localhost:3000/static/js/bundle.js,5,0,0
+1753563990430,1,GET Main page,200,OK,Frontend Feature moderate 6-25,text,true,,2028,116,1,4,http://localhost:3000/,1,0,0
+1753563990431,7,GET /static/js/bundle.js,200,OK,Frontend Feature moderate 6-25,text,true,,4480099,135,1,4,http://localhost:3000/static/js/bundle.js,4,0,0
+1753563991630,3,GET Main page,200,OK,Frontend Feature moderate 6-26,text,true,,2028,116,1,4,http://localhost:3000/,3,0,1
+1753563991633,9,GET /static/js/bundle.js,200,OK,Frontend Feature moderate 6-26,text,true,,4480099,135,1,4,http://localhost:3000/static/js/bundle.js,5,0,0
+1753563992831,2,GET Main page,200,OK,Frontend Feature moderate 6-27,text,true,,2028,116,1,4,http://localhost:3000/,2,0,0
+1753563992833,8,GET /static/js/bundle.js,200,OK,Frontend Feature moderate 6-27,text,true,,4480099,135,1,4,http://localhost:3000/static/js/bundle.js,4,0,0
+1753563994031,1,GET Main page,200,OK,Frontend Feature moderate 6-28,text,true,,2028,116,1,4,http://localhost:3000/,1,0,0
+1753563994033,7,GET /static/js/bundle.js,200,OK,Frontend Feature moderate 6-28,text,true,,4480099,135,1,4,http://localhost:3000/static/js/bundle.js,4,0,0
+1753563995231,2,GET Main page,200,OK,Frontend Feature moderate 6-29,text,true,,2028,116,1,4,http://localhost:3000/,2,0,1
+1753563995233,7,GET /static/js/bundle.js,200,OK,Frontend Feature moderate 6-29,text,true,,4480099,135,1,4,http://localhost:3000/static/js/bundle.js,4,0,0
+1753563996430,1,GET Main page,200,OK,Frontend Feature moderate 6-30,text,true,,2028,116,1,4,http://localhost:3000/,0,0,0
+1753563996431,4,GET /static/js/bundle.js,200,OK,Frontend Feature moderate 6-30,text,true,,4480099,135,1,4,http://localhost:3000/static/js/bundle.js,1,0,0
+1753563997627,8,GET Main page,200,OK,Frontend Feature moderate 6-31,text,true,,2028,116,1,4,http://localhost:3000/,8,0,1
+1753563997636,20,GET /static/js/bundle.js,200,OK,Frontend Feature moderate 6-31,text,true,,4480099,135,1,4,http://localhost:3000/static/js/bundle.js,9,0,0
+1753563998829,3,GET Main page,200,OK,Frontend Feature moderate 6-32,text,true,,2028,116,1,4,http://localhost:3000/,3,0,0
+1753563998832,13,GET /static/js/bundle.js,200,OK,Frontend Feature moderate 6-32,text,true,,4480099,135,1,4,http://localhost:3000/static/js/bundle.js,6,0,0
+1753564000032,4,GET Main page,200,OK,Frontend Feature moderate 6-33,text,true,,2028,116,1,4,http://localhost:3000/,4,0,1
+1753564000036,8,GET /static/js/bundle.js,200,OK,Frontend Feature moderate 6-33,text,true,,4480099,135,1,4,http://localhost:3000/static/js/bundle.js,4,0,0
+1753564001230,1,GET Main page,200,OK,Frontend Feature moderate 6-34,text,true,,2028,116,1,4,http://localhost:3000/,1,0,0
+1753564001231,8,GET /static/js/bundle.js,200,OK,Frontend Feature moderate 6-34,text,true,,4480099,135,1,4,http://localhost:3000/static/js/bundle.js,2,0,0
+1753564002430,4,GET Main page,200,OK,Frontend Feature moderate 6-35,text,true,,2028,116,1,4,http://localhost:3000/,4,0,1
+1753564002434,15,GET /static/js/bundle.js,200,OK,Frontend Feature moderate 6-35,text,true,,4480099,135,1,4,http://localhost:3000/static/js/bundle.js,5,0,0
+1753564003631,2,GET Main page,200,OK,Frontend Feature moderate 6-36,text,true,,2028,116,1,4,http://localhost:3000/,2,0,0
+1753564003634,27,GET /static/js/bundle.js,200,OK,Frontend Feature moderate 6-36,text,true,,4480099,135,1,4,http://localhost:3000/static/js/bundle.js,6,0,0
+1753564004826,3,GET Main page,200,OK,Frontend Feature moderate 6-37,text,true,,2028,116,1,4,http://localhost:3000/,3,0,1
+1753564004829,7,GET /static/js/bundle.js,200,OK,Frontend Feature moderate 6-37,text,true,,4480099,135,1,4,http://localhost:3000/static/js/bundle.js,5,0,0
+1753564006029,4,GET Main page,200,OK,Frontend Feature moderate 6-38,text,true,,2028,116,1,4,http://localhost:3000/,4,0,1
+1753564006033,12,GET /static/js/bundle.js,200,OK,Frontend Feature moderate 6-38,text,true,,4480099,135,1,4,http://localhost:3000/static/js/bundle.js,6,0,0
+1753564007228,2,GET Main page,200,OK,Frontend Feature moderate 6-39,text,true,,2028,116,1,4,http://localhost:3000/,2,0,0
+1753564007230,9,GET /static/js/bundle.js,200,OK,Frontend Feature moderate 6-39,text,true,,4480099,135,1,4,http://localhost:3000/static/js/bundle.js,5,0,0
+1753564008431,2,GET Main page,200,OK,Frontend Feature moderate 6-40,text,true,,2028,116,1,4,http://localhost:3000/,2,0,0
+1753564008433,13,GET /static/js/bundle.js,200,OK,Frontend Feature moderate 6-40,text,true,,4480099,135,1,4,http://localhost:3000/static/js/bundle.js,8,0,0
+1753564009631,2,GET Main page,200,OK,Frontend Feature moderate 6-41,text,true,,2028,116,1,4,http://localhost:3000/,2,0,0
+1753564009634,11,GET /static/js/bundle.js,200,OK,Frontend Feature moderate 6-41,text,true,,4480099,135,1,4,http://localhost:3000/static/js/bundle.js,5,0,0
+1753564010832,2,GET Main page,200,OK,Frontend Feature moderate 6-42,text,true,,2028,116,1,4,http://localhost:3000/,2,0,0
+1753564010835,10,GET /static/js/bundle.js,200,OK,Frontend Feature moderate 6-42,text,true,,4480099,135,1,4,http://localhost:3000/static/js/bundle.js,5,0,0
+1753564012030,3,GET Main page,200,OK,Frontend Feature moderate 6-43,text,true,,2028,116,1,4,http://localhost:3000/,3,0,1
+1753564012033,10,GET /static/js/bundle.js,200,OK,Frontend Feature moderate 6-43,text,true,,4480099,135,1,4,http://localhost:3000/static/js/bundle.js,6,0,0
+1753564013231,2,GET Main page,200,OK,Frontend Feature moderate 6-44,text,true,,2028,116,1,4,http://localhost:3000/,2,0,0
+1753564013234,9,GET /static/js/bundle.js,200,OK,Frontend Feature moderate 6-44,text,true,,4480099,135,1,4,http://localhost:3000/static/js/bundle.js,5,0,0
+1753564014430,3,GET Main page,200,OK,Frontend Feature moderate 6-45,text,true,,2028,116,1,4,http://localhost:3000/,3,0,1
+1753564014433,11,GET /static/js/bundle.js,200,OK,Frontend Feature moderate 6-45,text,true,,4480099,135,1,4,http://localhost:3000/static/js/bundle.js,6,0,0
+1753564015628,3,GET Main page,200,OK,Frontend Feature moderate 6-46,text,true,,2028,116,1,4,http://localhost:3000/,3,0,0
+1753564015631,10,GET /static/js/bundle.js,200,OK,Frontend Feature moderate 6-46,text,true,,4480099,135,1,4,http://localhost:3000/static/js/bundle.js,5,0,0
+1753564016827,4,GET Main page,200,OK,Frontend Feature moderate 6-47,text,true,,2028,116,1,4,http://localhost:3000/,4,0,1
+1753564016831,11,GET /static/js/bundle.js,200,OK,Frontend Feature moderate 6-47,text,true,,4480099,135,1,4,http://localhost:3000/static/js/bundle.js,6,0,0
+1753564018030,3,GET Main page,200,OK,Frontend Feature moderate 6-48,text,true,,2028,116,1,4,http://localhost:3000/,3,0,1
+1753564018033,11,GET /static/js/bundle.js,200,OK,Frontend Feature moderate 6-48,text,true,,4480099,135,1,4,http://localhost:3000/static/js/bundle.js,5,0,0
+1753564019230,3,GET Main page,200,OK,Frontend Feature moderate 6-49,text,true,,2028,116,1,4,http://localhost:3000/,3,0,1
+1753564019233,10,GET /static/js/bundle.js,200,OK,Frontend Feature moderate 6-49,text,true,,4480099,135,1,4,http://localhost:3000/static/js/bundle.js,4,0,0
+1753564020431,2,GET Main page,200,OK,Frontend Feature moderate 6-50,text,true,,2028,116,1,4,http://localhost:3000/,2,0,0
+1753564020433,13,GET /static/js/bundle.js,200,OK,Frontend Feature moderate 6-50,text,true,,4480099,135,1,4,http://localhost:3000/static/js/bundle.js,9,0,0

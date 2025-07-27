@@ -1,0 +1,4 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+GET Record by id,50,124,102,987,123.26,0.000%,.84878,0.62,0.39,754.0
+Get Patient Records,50,2,0,6,1.37,0.000%,.86323,1.87,0.41,2223.0
+TOTAL,100,63,0,987,106.34,0.000%,1.68310,2.45,0.79,1488.5

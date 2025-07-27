@@ -1,0 +1,21 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1753563961626,9,GET Main page,200,OK,Frontend Feature light 5-1,text,true,,2028,116,1,6,http://localhost:3000/,9,0,0
+1753563961635,28,GET /static/js/bundle.js,200,OK,Frontend Feature light 5-1,text,true,,4480099,135,1,6,http://localhost:3000/static/js/bundle.js,6,0,0
+1753563964625,2,GET Main page,200,OK,Frontend Feature light 5-2,text,true,,2028,116,1,5,http://localhost:3000/,2,0,0
+1753563964627,10,GET /static/js/bundle.js,200,OK,Frontend Feature light 5-2,text,true,,4480099,135,1,5,http://localhost:3000/static/js/bundle.js,5,0,0
+1753563967625,2,GET Main page,200,OK,Frontend Feature light 5-3,text,true,,2028,116,1,6,http://localhost:3000/,1,0,1
+1753563967627,7,GET /static/js/bundle.js,200,OK,Frontend Feature light 5-3,text,true,,4480099,135,1,7,http://localhost:3000/static/js/bundle.js,2,0,0
+1753563970626,2,GET Main page,200,OK,Frontend Feature light 5-4,text,true,,2028,116,1,5,http://localhost:3000/,2,0,1
+1753563970628,12,GET /static/js/bundle.js,200,OK,Frontend Feature light 5-4,text,true,,4480099,135,1,5,http://localhost:3000/static/js/bundle.js,5,0,0
+1753563973630,1,GET Main page,200,OK,Frontend Feature light 5-5,text,true,,2028,116,1,6,http://localhost:3000/,1,0,0
+1753563973631,11,GET /static/js/bundle.js,200,OK,Frontend Feature light 5-5,text,true,,4480099,135,1,7,http://localhost:3000/static/js/bundle.js,3,0,0
+1753563976630,1,GET Main page,200,OK,Frontend Feature light 5-6,text,true,,2028,116,1,5,http://localhost:3000/,1,0,0
+1753563976632,10,GET /static/js/bundle.js,200,OK,Frontend Feature light 5-6,text,true,,4480099,135,1,5,http://localhost:3000/static/js/bundle.js,4,0,0
+1753563979630,2,GET Main page,200,OK,Frontend Feature light 5-7,text,true,,2028,116,1,7,http://localhost:3000/,2,0,0
+1753563979632,11,GET /static/js/bundle.js,200,OK,Frontend Feature light 5-7,text,true,,4480099,135,1,6,http://localhost:3000/static/js/bundle.js,3,0,0
+1753563982629,2,GET Main page,200,OK,Frontend Feature light 5-8,text,true,,2028,116,1,5,http://localhost:3000/,2,0,1
+1753563982631,11,GET /static/js/bundle.js,200,OK,Frontend Feature light 5-8,text,true,,4480099,135,1,5,http://localhost:3000/static/js/bundle.js,5,0,0
+1753563985625,2,GET Main page,200,OK,Frontend Feature light 5-9,text,true,,2028,116,1,6,http://localhost:3000/,2,0,1
+1753563985627,9,GET /static/js/bundle.js,200,OK,Frontend Feature light 5-9,text,true,,4480099,135,1,7,http://localhost:3000/static/js/bundle.js,5,0,0
+1753563988629,1,GET Main page,200,OK,Frontend Feature light 5-10,text,true,,2028,116,1,5,http://localhost:3000/,1,0,1
+1753563988630,8,GET /static/js/bundle.js,200,OK,Frontend Feature light 5-10,text,true,,4480099,135,1,5,http://localhost:3000/static/js/bundle.js,5,0,0

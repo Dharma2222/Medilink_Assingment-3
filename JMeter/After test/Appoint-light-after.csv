@@ -1,0 +1,4 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+Book Appointment,10,110,106,122,4.63,0.000%,.36889,0.15,0.23,424.0
+Get Patient Appointments,10,210,206,216,3.04,0.000%,.36754,0.97,0.18,2690.0
+TOTAL,20,160,106,216,50.20,0.000%,.71888,1.09,0.39,1557.0

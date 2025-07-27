@@ -1,0 +1,4 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+GET Main page,50,1,0,4,0.85,0.000%,.85025,1.68,0.10,2028.0
+GET /static/js/bundle.js,50,9,3,32,4.94,0.000%,.85017,3719.56,0.11,4480099.0
+TOTAL,100,5,0,32,5.28,0.000%,1.70022,3720.99,0.21,2241063.5

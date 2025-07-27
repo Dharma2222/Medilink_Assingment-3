@@ -1,0 +1,17 @@
+{
+	"ulid": "01K16DEG5WMDR2JGJAXQT2RZ26",
+	"minTime": 1753624868370,
+	"maxTime": 1753632000000,
+	"stats": {
+		"numSamples": 128607,
+		"numSeries": 103,
+		"numChunks": 1001
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01K16DEG5WMDR2JGJAXQT2RZ26"
+		]
+	},
+	"version": 1
+}
